@@ -5,3 +5,6 @@ Miguel Pérez-Enciso, Laura Zingaretti
 Citation:
 pSBVB: A Versatile Simulation Tool To Evaluate Genomic Selection in Polyploid species
 https://www.g3journal.org/content/9/2/327
+
+Full repository in
+https://github.com/lauzingaretti/pSBVB
